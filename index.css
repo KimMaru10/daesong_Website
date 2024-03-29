@@ -1,5 +1,8 @@
 @import url("https://fonts.googleapis.com/css2?family=Caveat");
 
+body{
+  height: 100vh;
+}
 .Container {
   position: absolute;
   top: 50%;
